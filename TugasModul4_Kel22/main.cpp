@@ -31,7 +31,7 @@ int kembali(string gantinoHp) {
         gantiNomor.noHp(noHp2);
     } else {
         pembelianPulsa tidakGanti;
-        tidakGanti.noHp("081222430712");
+        tidakGanti.noHp("081236134692");
     }
     return 0;
 }
@@ -41,7 +41,7 @@ int main()
     int pilihan;
     login("prakdkp", "kelompok22");
     pembelianPulsa beliPulsa;
-    beliPulsa.noHp("081222439712");
+    beliPulsa.noHp("081236134692");
     cout << "\n1. Ganti nomor" << endl;
     cout << "2. Batal membeli pulsa" << endl;
     cout << "3. Lanjutkan pembelian" << endl;
