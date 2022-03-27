@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1648374325 source:d:\file srafifah\semester 2\praktikum dkp\percobaan\tugasmodul4_kel22\main.cpp
+	<iostream>
+	"pembelianPulsa.cpp"
+
+1648373800 d:\file srafifah\semester 2\praktikum dkp\percobaan\tugasmodul4_kel22\pembelianpulsa.cpp
+	<iostream>
+	<string>
+
+1648373800 source:d:\file srafifah\semester 2\praktikum dkp\percobaan\tugasmodul4_kel22\pembelianpulsa.cpp
+	<iostream>
+	<string>
+
