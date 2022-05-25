@@ -241,7 +241,7 @@ public class Lingkaran extends javax.swing.JFrame {
 
     private void BResetActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_BResetActionPerformed
         TFr.setText("");
-        HasilLuas.setText("");
+        HasilKeliling.setText("");
         HasilLuas.setText("");
     }//GEN-LAST:event_BResetActionPerformed
 
@@ -249,7 +249,7 @@ public class Lingkaran extends javax.swing.JFrame {
         r = Double.parseDouble(TFr.getText());
         luas = PHI*r*r;
         keliling = 2*PHI*r;
-        HasilLuas.setText(String.valueOf(keliling));
+        HasilKeliling.setText(String.valueOf(keliling));
         HasilLuas.setText(String.valueOf(luas));
         BReset.setEnabled(true);
     }//GEN-LAST:event_BHitungActionPerformed
